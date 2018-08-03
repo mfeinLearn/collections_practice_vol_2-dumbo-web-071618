@@ -3,5 +3,5 @@ def begins_with_r(tools)
   tools.include?("r")
 end
 
-def 
+def contain_a
 end
