@@ -1,4 +1,4 @@
 # your code goes here
 def begins_with_r(tools)
-  tools.include?("r")
+  tools.all?("r")
 end
